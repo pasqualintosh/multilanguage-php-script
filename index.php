@@ -45,7 +45,7 @@ $ln_to_in = [
  * Start
  */
 
-$data = csvToArray("./traduzioni.csv", ',');
+$data = csvToArray("./tutorial.csv", ',');
 
 
 foreach ($ln_to_in as $lan => $ind) {
@@ -53,7 +53,12 @@ foreach ($ln_to_in as $lan => $ind) {
     $labels = [];
     
     for ($i=1; $i < sizeof($data); $i++) { 
-      $label = "id_" . $data[$i][1] . $data[$i][3];
+      if($data[$i][3] < 10) {
+        $label = "id_" . $data[$i][1] . "_0" . $data[$i][3];
+      }
+      else {
+        $label = "id_" . $data[$i][1] . "_" . $data[$i][3];
+      }
       $value = $data[$i][$ind];
       $value = str_replace('"', "'", $value);
       if($value == "") {
