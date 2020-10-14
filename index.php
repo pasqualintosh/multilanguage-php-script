@@ -45,7 +45,7 @@ $ln_to_in = [
  * Start
  */
 
-$data = csvToArray("./tutorial.csv", ',');
+$data = csvToArray("./tournament.csv", ',');
 
 
 foreach ($ln_to_in as $lan => $ind) {

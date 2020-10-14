@@ -1,0 +1,159 @@
+Pagina,Id,Numero,E' placeholder?,ITA,ENG
+Sign up,0,1,,Registra la tua squadra,Register your team
+,0,2,,Nome*,Name*
+,0,3,,Cognome*,Surname*
+,0,4,,Email*,Email*
+,0,5,,Password*,Password*
+,0,6,,Ripeti Password*,Repeart Password*
+,0,7,,Hai un codice sconto? Inseriscilo,Do you have a discount code? Enter it
+,0,8,,Registrati,Sign up
+,0,9,,Se sei già registrato o hai un account sull'app di MUV accedi.,"If you are already registered or have an account on the MUV app, please sign in."
+,0,10,,Il Futuro è un gioco di squadra,Future is a Team sport
+,0,11,,"Iscrivi il tuo Istituto, convoca studenti, genitori, corpo docente e personale, allenati, accetta le sfide e guida il tuo Team!","Sign up your Institute, bring together students, parents, faculty and staff, practice, face challenges and lead your Team!"
+,0,12,,"Iscrivi la tua Organizzazione, convoca colleghi e supporter, allenati, accetta le sfide e guida il tuo Team!","Enroll your Organization, bring colleagues and supporters together, practice, face challenges and lead your Team!"
+Modale,1,1,,"Ciao %Nome%, ti diamo il benvenuto in MUV!
+Per completare la registrazione del tuo team e iniziare a giocare devi completare queste 3 sezioni:","Hello %Name%, we welcome you to MUV!
+To complete your team registration and start playing you just need to complete these 3 sections:"
+,1,2,,1. Profilo,1. Profile
+,1,3,,Inserisci le informazioni necessarie a perfezionare il profilo.,Enter the information needed to complete your profile.
+,1,4,,2. Team,2. Team
+,1,5,,Personalizza la tua squadra scegliendo i colori e lo scudetto.,Customize your team by choosing the colours and the badge.
+,1,6,,3. Abbonamento,3. Subscription
+,1,7,,Inserisci un codice sconto e scegli il piano che preferisci.,Enter a discount code and and select the plan you prefer.
+,1,8,,Tutto chiaro!,Totally clear!
+,1,9,,Ricordamelo,Remind me
+Barra laterale,2,1,,Il tuo account,Your account
+,2,2,,Profilo,Profile
+,2,3,,Abbonamento,Subscription
+,2,4,,Team,Team
+,2,5,,Report,Report
+,2,6,,Costruisci il tuo team,Build your team
+Profilo,3,1,,Nome istituto*,Institute name*
+,3,29,,Dati Ateneo,University Data
+,3,30,,Dati Scuola,School Data
+,3,31,,Dati Organizzazione,Organization Data
+,3,32,,Dati Azienda,Company Data
+,3,2,,Inserisci i dati relativi al tuo Ateneo,Enter your University data
+,3,33,,Inserisci i dati relativi alla tua Scuola,Enter your School data
+,3,34,,Inserisci i dati relativi alla tua Organizzazione,Enter your Organization data
+,3,35,,Inserisci i dati relativi alla tua Azienda,Enter your Company data
+,3,3,,Ragione sociale*,Company name*
+,3,4,,Logo,Logo
+,3,5,,Carica,Upload
+,3,6,,nessun file selezionato,no file selected
+,3,7,,Tipologia*,Typology*
+,3,8,,Settore*,Sector*
+,3,9,,Numero di dipendenti*,Number of employees*
+,3,10,,Indirizzo principale*,Main address*
+,3,11,,Aggiungi altre sedi,Add other locations
+,3,12,,clicca qui per aggiungere altre sedi,click here to add other locations
+,3,13,,Indirizzo,Address
+,3,14,,Nome sede,Name of location
+,3,15,,Dati Referente,Contact data
+,3,16,,Inserisci le informazioni relative al referente per MUV,Please enter the information of the contact person for MUV
+,3,17,,Ruolo*,Position*
+,3,18,s,Che ruolo ricopri all'interno dell'azienda?,What is your position within the company?
+,3,19,s,Che ruolo ricopri nell'organizzzione?,What is your position in the organisation?
+,3,20,s,Che ruolo ricopri nella scuola?,What is your position in the school?
+,3,21,s,Che ruolo ricopri all'interno dell'università?,What is your position within the university?
+,3,22,,Telefono*,Phone*
+,3,23,,Dati di accesso,Access data
+,3,24,,Cambia email,Change email
+,3,25,,Cambia password,Change password
+,3,26,,,
+,3,27,,Nessuna sede secondaria è stata aggiunta.,No secondary location has been added.
+,3,28,,Se vuoi modificare l'indirizzo email scrivici a help@muvgame.com.,If you want to change your email address please contact us at help@muvgame.com.
+,3,36,,,
+Abbonamento,4,1,,Dati Abbonamento,Subscription Data
+,4,2,,Qui sono raccolte le informazioni sul tuo piano di abbonamento a MUV.,Information about your MUV subscription plan is collected here.
+,4,3,,Piano di abbonamento,Subscription plan
+,4,4,,Pagamento completato,Payment completed
+,4,5,,Importo pagato,Amount paid
+,4,6,,Il tuo piano di abbonamento sarà attivo fino al,Your subscription plan will be active until
+,4,7,,"Se vuoi usufruire del piano di abbonamento gratuito per i primi 4 mesi, inserisci il codice MUV4FREE.","If you want to take advantage of the free subscription plan for the first 4 months, enter the MUV4FREE code."
+,4,8,,Stiamo elaborando la tua richiesta di pagamento. Questa operazione richiederà qualche minuto.,We are processing your payment request. This will take a few minutes.
+,4,9,,Importo da pagare,Amount to pay
+,4,10,,Codice sconto,Discount code
+,4,11,,Caratteristiche piano di abbonamento,Subscription plan features
+,4,12,,In questa sezione sono riassunti i dettagli del tuo piano di abbonamento e le funzionalità offerte.,This section summarises the details of your subscription plan and the features offered.
+Team,5,1,,Informazioni Team,Team Information
+,5,2,,Sono i dati che caratterizzano la tua squadra e saranno visualizzati in app.,This is the information that defines your team and will be displayed in the app.
+,5,3,,Nome,Name
+,5,4,s,Il nome del team visualizzato in app (max 20 caratteri),The team name displayed in app (max 20 chars)
+,5,5,,Sigla*,Acronym*
+,5,6,s,Max 6 caratteri,Max 6 chars
+,5,7,,Domanda di sicurezza*,Security question*
+,5,8,,Scegli una domanda per regolare l'accesso al team.,Choose a question to regulate access to the team.
+,5,9,s,Inserisci qui la risposta,Enter the answer here
+,5,10,,Scudetto*,Badge*
+,5,11,,Crea lo stemma che caratterizzerà il tuo team in app.,Create the coat of arms that will characterize your team in the app.
+,5,12,,Forma,Shape
+,5,13,,Colore bordo,Border colour
+,5,14,,Colore interno,Internal colour
+,5,15,,Simbolo,Symbol
+,5,16,,Cancella,Delete
+,5,17,,Salva,Save
+,5,18,,Modifica,Edit
+,5,19,,Il tuo scudetto è stato creato con successo!,Your badge has been successfully created!
+,5,20,,Il tuo scudetto è stato modificato con successo!,Your badge has been successfully modified!
+Report,6,1,,Report,Report
+,6,2,,Qui troverai i tuoi report trimestrali.,Here you will find your quarterly reports.
+,6,3,,Non ci sono ancora report disponibili.,There are no reports available yet.
+,6,4,,Clicca sul report di tuo interesse per scaricarlo.,Click on the report you are interested in to download it.
+Costruisci il tuo team,7,1,,Codice invito al team,Team invitation code
+,7,2,,Condividi questo link per invitare chi vuoi a entrare a far parte del team!,Share this link to invite whoever you want to join the team!
+,7,3,,Copia link,Copy link
+,7,4,,Welcome kit,Welcome kit
+,7,5,,Benvenuti nella famiglia di MUV!,Welcome to the MUV family!
+,7,6,,Siamo sicuri che ci divertiremo insieme e per rendere questa esperienza ancora più intuitiva abbiamo creato il Welcome Kit attraverso il quale vi accompagneremo nelle prossime fasi!,We are sure that we will have fun together and to make this experience even more intuitive we created the Welcome Kit through which we will guide you through the next steps!
+,7,7,,Cos’è il Welcome Kit?,What is the Welcome Kit?
+,7,8,,"Una breve guida nella quale troverete la descrizione di tutti i passaggi necessari per creare la vostra community, consigli su come creare engagement ed esempi pratici per una comunicazione efficace.","A short guide in which you will find a description of all the steps needed to create your community, advice on how to create engagement and practical examples for effective communication."
+,7,9,,,
+,7,10,,Siete pronti? Partiamo!,Are you ready? Let's start!
+,7,11,,Scopri il Welcome Kit di MUV,Discover the MUV Welcome Kit
+,7,12,,Per poter visualizzare il codice di invito è necessario completare la registrazione del team.,In order to view the invitation code you must complete the team registration.
+Login,8,1,,Che bello rivederti!,It’s nice to see you again!
+,8,2,,Accedi,Login
+,8,3,,Hai dimenticato la password?,Forgot password?
+,8,4,,La mobilità sicura e sostenibile è uno sport,Safe and sustainable mobility as a sport
+,8,5,,"Gioca, vinci, cambia il mondo!","Play, win, change the World!"
+,8,6,,"Accedi e monitora costantemente le performance del tuo Team, scarica report trimestrali sugli impatti e approfondisci le analisi sui dati.","Access and constantly monitor your Team's performance, download quarterly impact reports and deepen data analysis."
+,8,7,,Non hai un account? Registrati.,Don't have an account? Sign up.
+,8,8,,"La tua email e la tua password non corrispondono, per favore riprova.","Your email and password didn't match, please try again."
+Barra header,9,1,,Salva,Save
+,9,2,,Impostazioni,Settings
+,9,3,,Logout,Logout
+Reset password,10,1,,Reimposta la password,Reset password
+,10,2,,Inserisci la tua email,Insert your email
+,10,3,,Invia,Send
+,10,4,,Nuova password,New password
+,10,5,,Conferma la password,Confirm the password
+,10,6,,La password di %email% è stata reimpostata con successo. Ora è possibile effettuare il login.,The password for %email% has been successfully reset. You can now login.
+,10,7,,"Ok, portami al login.","Okay, take me to the login."
+,10,8,,Controlla la tua email,Check your email 
+,10,9,,"Ti abbiamo appena inviato un’email, clicca sul link per reimpostare la password. Se non la trovi, controlla lo spam!","We’ve just sent you an email, click the link to reset your password. If you don’t see the email, check the spam folder!"
+Mail conferma account,11,1,,Ci sei quasi!,You're almost there!
+,11,2,,"Per attivare il tuo account e iniziare a giocare con MUV, conferma la tua e-mail.","To activate your account and start playing with MUV, please confirm your email."
+,11,3,,Clicca qui per confermare,Click here to confirm
+Messaggi di sitema,12,1,,Le tue modifiche sono state salvate con successo,Your changes have been successfully saved
+,12,2,,La password deve avere una lunghezza minima di 9 caratteri.,The password must be at least 9 characters long.
+,12,3,,"Per poter completare il salvataggio è necessario inserire tutti i campi obbligatori (indicati con *), ossia:","To complete the save it is necessary to enter all the required fields (indicated with *), that are:"
+,12,4,,Il tuo scudetto è stato salvato con successo.,Your badge has been successfully saved.
+,12,5,,Le password non corrispondono.,Passwords don't match.
+,12,6,,L'email inserita è già associata a un account. Vuoi fare login?,The email you entered is already associated with an account. Would you like to login?
+,12,7,,Ragione sociale,
+,12,8,,Tipologia,
+,12,9,,Numero di dipendenti,
+,12,10,,Indirizzo,
+,12,11,,Ruolo Referente,
+,12,12,,Nome Team,
+,12,13,,Sigla Team,
+,12,14,,Domanda di sicurezza,
+,12,15,,Risposta alla domanda di sicurezza,
+,12,16,,Scudetto Team,
+,12,17,,Numero Studenti ,
+,12,18,,Numero Docenti,
+,12,19,,Numero Personale,
+Pagamento completato,13,1,,Pagamento completato,
+,13,2,,La procedura di pagamento è andata buon fine.,
+,13,3,,Torna alla pagina del tuo account.,
