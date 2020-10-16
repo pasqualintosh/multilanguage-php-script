@@ -86,7 +86,7 @@ echo "[";
 foreach ($data as $k => $d) {
   // echo $d[$ita];
   if($k>0) {
-    if($d[$id] == 12)
+    if($d[$id] == 12 || $d[$id] == 4)
       echo '"'.$d[$ita].'",';
   }
 }
@@ -95,7 +95,7 @@ echo "[";
 foreach ($data as $k => $d) {
   // echo $d[$ita];
   if($k>0) {
-    if($d[$id] == 12)
+    if($d[$id] == 12 || $d[$id] == 4)
       echo '"'.$d[$eng].'",';
   }
 }
